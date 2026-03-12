@@ -139,12 +139,6 @@ git status
 
 That lets you verify `node_modules` and `dist` are not being tracked.
 
-## Notes
-
-- The folder name is currently `06currencyConvertor`.
-- If you want consistency, you may later rename it to `06currencyConverter`, but do that before publishing links or documentation.
-- The existing default `README.md` can stay unchanged if you want this file to remain a separate GitHub-ready draft.
-
 ## License
 
 Use this project for learning and portfolio purposes unless you add a separate license.
